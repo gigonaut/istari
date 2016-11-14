@@ -1,0 +1,20 @@
+{
+  "name": "istari",
+  "version": "0.0.1",
+  "description": "A simple middleware capable express like tcp library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/*"
+  },
+  "keywords": [
+    "tcp",
+    "mesh",
+    "microservice"
+  ],
+  "author": "Zack Bonebrake",
+  "license": "MIT",
+  "dependencies": {
+    "eventemitter2": "^2.1.3",
+    "ramda": "^0.22.1"
+  }
+}
