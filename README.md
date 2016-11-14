@@ -1,3 +1,4 @@
+# NOTE: THIS IS REALLY ROUGH AND ALPHAISH AT THE MOMENT USE AT YOUR OWN RISK!
 # ISTARI socket middleware and management things
 Istari is a organized event driven server for whatever transport you see fit.
 It behaves very similarly to the express router, except it listens for events.

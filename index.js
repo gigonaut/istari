@@ -17,16 +17,3 @@ var istari = module.exports = function () {
 istari.Router = Router;
 
 
-
-
-
-
-// var decorate = {
-//   listen: function (port) {
-//     console.log('listening on ', server);
-//   },
-//   join: function(url) {
-
-//   }
-// }
-
